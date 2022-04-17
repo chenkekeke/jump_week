@@ -10,7 +10,7 @@
     justify-content: center;
 }
 .typing-demo {
-    width: 41%;
+    width: 11em;
     animation: typing 2s steps(22),blink 0.5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
